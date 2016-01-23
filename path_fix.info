@@ -1,0 +1,7 @@
+name = Path Fix
+description = Supports customization of path aliases for special characters. (inspired by some forum post somewhere...)
+core = 7.x
+package = Custom modules from http://drupal.org/u/168 peroja
+
+; Files that contain classes.
+files[] = path_fix.module
